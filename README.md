@@ -5,4 +5,4 @@ Here's a [project website](https://uwescience.github.io/DSSG2022-Tracking-Povert
 
 You can also read an [article](https://escience.washington.edu/dssg-2022-minimum-wage) about the project and the team, or watch our [final presentation](https://youtu.be/rA6cTfoOFlU), which 20 minutes long. The slides are in the repo.
 
-My colleague Zhaowen Guo and I gave a poster presentation at the Learning and Doing Data for Good Conference at UW in September 2022. The poster is in the repo.
+My colleague Zhaowen Guo and I gave a [poster](https://docs.google.com/presentation/d/1_qDfXWFS7W016GejZBk7FmJUvBacIiQtetyIfg2XWB4/edit?usp=sharing) presentation at the Learning and Doing Data for Good Conference at UW in September 2022. The poster is in the repo.
